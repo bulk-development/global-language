@@ -1,4 +1,4 @@
 lang:
   simple: 'Hello - its %s test'
-  indexed: 'Hello - its {0} test {1}'
+  indexed: 'Hello - its {0} test {1} and {0}'
   named: 'Hello - its {name} test'
