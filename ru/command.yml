@@ -5,7 +5,7 @@ lang:
     required:
       true: '§7<§a%s§7>'
       false: '§7[§a%s§7]>'
-    line: '/%s %s§7- %s'
+    line: '§r/%s %s§7- %s'
   resolve:
     required: '§cУкажите параметр §e%s'
     number:
